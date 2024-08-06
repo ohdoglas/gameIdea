@@ -1,0 +1,129 @@
+{
+    "turnEvents": [
+      {
+        "name": "changeDate",
+        "description": "Atualiza a data do jogo.",
+        "effect": "Atualiza a data atual do jogo para o próximo turno."
+      },
+      {
+        "name": "updateResources",
+        "description": "Calcula e atualiza todos os recursos.",
+        "effect": "Atualiza a quantidade de recursos disponíveis com base na produção e consumo."
+      },
+      {
+        "name": "processPopulationGrowth",
+        "description": "Aplica o crescimento populacional.",
+        "effect": "Aumenta a população com base na taxa de crescimento."
+      },
+      {
+        "name": "manageBuildings",
+        "description": "Atualiza o estado dos edifícios.",
+        "effect": "Aplica danos, construção ou melhorias nos edifícios."
+      },
+      {
+        "name": "applyMilitaryMovements",
+        "description": "Processa os movimentos e ações militares.",
+        "effect": "Atualiza as posições e estados das tropas."
+      },
+      {
+        "name": "resolveTradeDeals",
+        "description": "Processa e atualiza os acordos comerciais.",
+        "effect": "Executa transações e ajustes nos acordos comerciais."
+      },
+      {
+        "name": "handleEvents",
+        "description": "Aciona eventos aleatórios ou programados.",
+        "effect": "Executa eventos programados ou aleatórios que afetam o jogo."
+      },
+      {
+        "name": "updateDiplomacy",
+        "description": "Atualiza relações diplomáticas e alianças.",
+        "effect": "Atualiza o status das relações diplomáticas e alianças."
+      },
+      {
+        "name": "calculateIncome",
+        "description": "Calcula a receita de recursos e impostos.",
+        "effect": "Calcula e adiciona a receita gerada por impostos e recursos."
+      },
+      {
+        "name": "applyTechnologyProgress",
+        "description": "Atualiza o progresso tecnológico.",
+        "effect": "Avança a pesquisa e desenvolvimento de tecnologias."
+      },
+      {
+        "name": "manageTaxes",
+        "description": "Calcula e aplica impostos.",
+        "effect": "Ajusta e coleta impostos da população e cidades."
+      },
+      {
+        "name": "resolveConflicts",
+        "description": "Resolve conflitos e batalhas pendentes.",
+        "effect": "Resolve qualquer batalha ou conflito que esteja pendente."
+      },
+      {
+        "name": "updateMorale",
+        "description": "Atualiza o moral das unidades e da população.",
+        "effect": "Ajusta o moral das tropas e da população com base em eventos e condições."
+      },
+      {
+        "name": "manageArmies",
+        "description": "Atualiza o estado e posição das tropas.",
+        "effect": "Atualiza a posição e condição das unidades militares."
+      },
+      {
+        "name": "processRecruitment",
+        "description": "Aplica recrutamento de novas unidades.",
+        "effect": "Recruta novas unidades de acordo com as capacidades de recrutamento."
+      },
+      {
+        "name": "updateTradeRoutes",
+        "description": "Atualiza rotas comerciais e sua eficácia.",
+        "effect": "Ajusta as rotas comerciais e calcula sua eficiência."
+      },
+      {
+        "name": "checkForRebellions",
+        "description": "Verifica e lida com revoltas ou insurreições.",
+        "effect": "Detecta e resolve quaisquer revoltas ou insurreições em andamento."
+      },
+      {
+        "name": "processBuildingUpgrades",
+        "description": "Aplica melhorias e atualizações em edifícios.",
+        "effect": "Atualiza e melhora edifícios existentes com base em recursos e tecnologia."
+      },
+      {
+        "name": "handleDiplomaticOffers",
+        "description": "Processa e responde a ofertas diplomáticas.",
+        "effect": "Recebe e responde a propostas diplomáticas de outras facções."
+      },
+      {
+        "name": "resolveEspionage",
+        "description": "Resolve atividades de espionagem e contra-espionagem.",
+        "effect": "Processa e ajusta ações de espionagem e contra-espionagem."
+      },
+      {
+        "name": "updateInfrastructure",
+        "description": "Atualiza a infraestrutura das cidades.",
+        "effect": "Melhora a infraestrutura e redes de transporte das cidades."
+      },
+      {
+        "name": "checkForNaturalDisasters",
+        "description": "Verifica e lida com desastres naturais.",
+        "effect": "Detecta e resolve desastres naturais que afetam o império."
+      },
+      {
+        "name": "manageEconomy",
+        "description": "Atualiza a economia geral do império.",
+        "effect": "Ajusta e atualiza a economia com base em receitas e despesas."
+      },
+      {
+        "name": "applyPopulationMovements",
+        "description": "Lida com migrações e movimentações populacionais.",
+        "effect": "Gerencia movimentações e migrações de população entre cidades e regiões."
+      },
+      {
+        "name": "updateCityStats",
+        "description": "Atualiza as estatísticas de todas as cidades.",
+        "effect": "Atualiza informações e estatísticas gerais de todas as cidades."
+      }
+    ]
+}

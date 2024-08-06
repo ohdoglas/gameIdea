@@ -1,0 +1,73 @@
+cartas_de_jogo = [
+    cartas_de_exercito {
+        exercitos_de_baixo_nivel {
+            "Aldeoes",
+            "Milicianos",
+            "Arqueiros",
+            "Lanceiros",
+            "Espadachins",
+            "Batedores"
+        },
+        Exércitos de nível médio {
+            "Cavaleiros"
+            "Lanceiros Veteranos"
+            "Arqueiros Montados"
+            "Guerreiros de Machado"
+            "Infantes Pesados"
+        },
+        Exércitos de Elite {
+            "Cavaleiros Templários"
+            "Arqueiros de Elite"
+            "Guardiões Reais"
+            "Berserkers"
+            "Assassinos"
+        }
+    },
+    Cartas de Recursos {
+        "Madeira"
+        "Ferro"
+        "Comida"
+        "Ouro"
+        "Especiarias"
+        "Tecidos"
+        "Medicamentos"
+        "Ferramentas"
+        "Relíquias"
+        "Tesouros"
+    },
+    Cartas de Pessoas Notórias {
+        Monarcas
+        Generais
+        Heróis
+        Espiões
+        Comerciantes
+        Conselheiros
+        Engenheiros
+        Rei
+        Príncipe
+        Princesa
+        Rainha
+        Bruxo
+        Religioso
+    },
+    Cartas de Cidades {
+        Acampamento
+        Aldeias
+        Cidade Pequena
+        Grande Cidade
+        Cidade Capital
+        Fortaleza
+        Torre
+        Porto
+        Vila
+        Distrito Comercial
+    }
+]
+
+Cartas de Eventos {
+    Desastres Naturais
+    Conflito Político
+    Festivais
+    Estações
+    Pragas/Doenças
+}

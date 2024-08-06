@@ -1,0 +1,129 @@
+{
+    "actionEvents": [
+    {
+      "name": "recruit",
+      "description": "Recruta uma unidade através de uma carta.",
+      "effect": "Adiciona uma nova unidade ao exército do jogador."
+    },
+    {
+      "name": "createVillage",
+      "description": "Cria uma nova vila em uma área específica.",
+      "effect": "Estabelece uma nova vila em uma localização escolhida."
+    },
+    {
+      "name": "sellSpices",
+      "description": "Vende especiarias e atualiza o inventário e receita.",
+      "effect": "Reduz a quantidade de especiarias e aumenta a receita."
+    },
+    {
+      "name": "buildBuilding",
+      "description": "Constrói um novo edifício na cidade.",
+      "effect": "Adiciona um novo edifício à cidade e ajusta os recursos necessários."
+    },
+    {
+      "name": "upgradeBuilding",
+      "description": "Melhora um edifício existente.",
+      "effect": "Atualiza um edifício para um nível superior com base em recursos."
+    },
+    {
+      "name": "trainArmy",
+      "description": "Treina um exército novo ou atualiza um existente.",
+      "effect": "Adiciona ou melhora um exército com novas unidades."
+    },
+    {
+      "name": "declareWar",
+      "description": "Declara guerra a outro reino ou facção.",
+      "effect": "Inicia um estado de guerra com outra facção."
+    },
+    {
+      "name": "formAlliance",
+      "description": "Forma uma aliança com outra facção.",
+      "effect": "Estabelece uma aliança diplomática com outra facção."
+    },
+    {
+      "name": "negotiateTrade",
+      "description": "Negocia um acordo comercial com outra facção.",
+      "effect": "Define um novo acordo comercial e ajusta as trocas de recursos."
+    },
+    {
+      "name": "researchTechnology",
+      "description": "Pesquisa uma nova tecnologia.",
+      "effect": "Avança o desenvolvimento tecnológico e desbloqueia novas opções."
+    },
+    {
+      "name": "constructFortification",
+      "description": "Constrói fortificações para defesa.",
+      "effect": "Adiciona fortificações e melhora a defesa da cidade."
+    },
+    {
+      "name": "manageTaxes",
+      "description": "Ajusta as taxas de impostos.",
+      "effect": "Modifica a taxa de impostos e ajusta a receita."
+    },
+    {
+      "name": "launchExpedition",
+      "description": "Lança uma expedição para explorar ou conquistar terras.",
+      "effect": "Inicia uma expedição para explorar novas regiões ou conquistar terras."
+    },
+    {
+      "name": "diplomaticOffer",
+      "description": "Faz uma oferta diplomática para outra facção.",
+      "effect": "Envia uma proposta diplomática para negociação com outra facção."
+    },
+    {
+      "name": "upgradeUnit",
+      "description": "Melhora as habilidades ou equipamentos de uma unidade.",
+      "effect": "Atualiza as unidades com equipamentos ou habilidades superiores."
+    },
+    {
+      "name": "trainHero",
+      "description": "Treina um herói ou personagem especial.",
+      "effect": "Desenvolve habilidades e poderes de um herói ou personagem especial."
+    },
+    {
+      "name": "sellResources",
+      "description": "Vende recursos excedentes no mercado.",
+      "effect": "Reduz a quantidade de recursos e aumenta a receita de venda."
+    },
+    {
+      "name": "purchaseResources",
+      "description": "Compra recursos necessários de outras facções.",
+      "effect": "Adiciona recursos comprados ao inventário."
+    },
+    {
+      "name": "buildRoad",
+      "description": "Constrói uma estrada para melhorar o transporte.",
+      "effect": "Melhora as rotas de transporte e facilita o movimento de tropas e recursos."
+    },
+    {
+      "name": "recruitSpecialists",
+      "description": "Recruta especialistas para tarefas específicas.",
+      "effect": "Adiciona especialistas com habilidades específicas para auxiliar no jogo."
+    },
+    {
+      "name": "assignGovernor",
+      "description": "Nomeia um governador para uma cidade ou região.",
+      "effect": "Atribui um governador a uma cidade ou região para gerenciar recursos e população."
+    },
+    {
+      "name": "defendCity",
+      "description": "Organiza uma defesa contra um ataque iminente.",
+      "effect": "Prepara a cidade para um possível ataque, aumentando a defesa temporariamente."
+    },
+    {
+      "name": "convertCity",
+      "description": "Converte uma cidade para um novo tipo ou propósito.",
+      "effect": "Transforma a função ou o tipo de uma cidade para atender a novas necessidades."
+    },
+    {
+      "name": "deployUnits",
+      "description": "Desdobra unidades militares em uma localização específica.",
+      "effect": "Move unidades para uma nova posição para defesa ou ataque."
+    },
+    {
+      "name": "organizeFestival",
+      "description": "Organiza um festival para aumentar o moral e a felicidade.",
+      "effect": "Aumenta o moral e a felicidade da população com um evento festivo."
+    }
+  ]
+}
